@@ -2,7 +2,7 @@
 
 <h2> About me</h2>
 <p> 
-  I'm Python-backend-developer. I create RESTful apps using FastAPI framework and sqlalchemy library to interact with databases (mainly Postgres).
+  I'm Python-backend-developer. I create RESTful apps using <b >FastAPI</b> framework and <b>sqlalchemy</b> library to interact with databases (mainly Postgres).
 </p>
 <!--
 **nicarpov/nicarpov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
