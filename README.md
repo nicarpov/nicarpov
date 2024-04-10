@@ -1,5 +1,5 @@
 ### Hi everyone! I'm Nikita. 👋 
-<a href="https://t.me/nicarpov" style="text-decoration: none !important">my telegram</a>
+<a href="https://t.me/nicarpov" style="text-color: black !important">my telegram</a>
 
 <h2> About me</h2>
 <p> 
