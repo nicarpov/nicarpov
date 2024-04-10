@@ -1,4 +1,5 @@
-### Hi everyone! I'm Nikita. 👋 <a href="https://t.me/nicarpov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt=""></a>
+### Hi everyone! I'm Nikita. 👋 
+<a href="https://t.me/nicarpov" style="decoration: none">my telegram</a>
 
 <h2> About me</h2>
 <p> 
