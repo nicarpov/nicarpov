@@ -5,7 +5,7 @@
   Python-backend-developer creating RESTful apps using <b >FastAPI</b> framework and <b>sqlalchemy</b> library to interact with databases (mainly Postgres).
 </p>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=nicarpov&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 <!--
 **nicarpov/nicarpov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
