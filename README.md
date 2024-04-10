@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi everyone! 👋
+
+<a href="https://t.me/nicarpov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt=""></a>
 
 <!--
 **nicarpov/nicarpov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
