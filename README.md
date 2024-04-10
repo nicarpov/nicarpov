@@ -1,8 +1,8 @@
-### Hi everyone! I'm Nikita. 👋 
+### Hi everyone! I'm Nikita 👋 
 <a href="https://t.me/nicarpov" > <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> </a>
 
 <p> 
-  I'm Python-backend-developer. I create RESTful apps using <b >FastAPI</b> framework and <b>sqlalchemy</b> library to interact with databases (mainly Postgres).
+  Python-backend-developer creating RESTful apps using <b >FastAPI</b> framework and <b>sqlalchemy</b> library to interact with databases (mainly Postgres).
 </p>
 <!--
 **nicarpov/nicarpov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
