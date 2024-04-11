@@ -8,10 +8,7 @@
 <div style="display: flex"> 
   <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <div style="border: solid 2px black"> 
-    <img style="height: 30px; " src="https://upload.wikimedia.org/wikipedia/commons/d/d7/SQLAlchemy.svg">
-  </div>
-  
+  <img style="height: 30px; " src="https://upload.wikimedia.org/wikipedia/commons/d/d7/SQLAlchemy.svg">
 </div>
 
 
