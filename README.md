@@ -2,7 +2,7 @@
 <a href="https://t.me/nicarpov" > <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> </a>
 
 <p> 
-  Python-backend-developer
+  Python backend-developer
 </p>
 <h3> My stack</h3>
 <div style="display: flex"> 
